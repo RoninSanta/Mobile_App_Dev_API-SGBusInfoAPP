@@ -3,7 +3,7 @@ A mobile app I created to show `Bus Stops` and associated `Bus Information` all 
 
 This is the `Third` application I created using Expo, check out the `second` app here [FoodOrderingAPP](https://github.com/RoninSanta/Mobile_Project_2-FoodOrderingAPP), and the first app i created [CalculatorAPP](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
 
-
+## Offline Emulation ##
 - Install Andriod Studio to emulate andriod environment
 [Andriod Studio](https://developer.android.com/studio)
 
