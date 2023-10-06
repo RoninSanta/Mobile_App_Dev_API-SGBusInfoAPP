@@ -1,7 +1,7 @@
 # SGBusInfoAPP
-A mobile app created to show `Bus Stops` and associated `Bus Information` all around Singapore
+A mobile app I created to show `Bus Stops` and associated `Bus Information` all around Singapore
 
-This is the `Third` application I created using Expo, check out the `second` app [here](https://github.com/RoninSanta/Mobile_Project_2-FoodOrderingAPP), and the first app i created [here](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
+This is the `Third` application I created using Expo, check out the `second` app here [FoodOrderingAPP](https://github.com/RoninSanta/Mobile_Project_2-FoodOrderingAPP), and the first app i created [CalculatorAPP](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
 
 
 - Install Andriod Studio to emulate andriod environment
