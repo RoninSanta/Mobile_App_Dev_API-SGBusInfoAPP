@@ -1,5 +1,5 @@
 # SGBusInfoAPP
-A mobile app I created to show `Bus Stops` and associated `Bus Information` in Singapore constantly being updated in real-time.
+A mobile app I created to show `Bus Stops` and associated `Bus Information` in Singapore, the data is being constantly updated in real-time.
 
 This is the `Third` application I created using Expo with React Native, check out the `second` app [FoodOrderingAPP](https://github.com/RoninSanta/Mobile_Project_2-FoodOrderingAPP), and the first app I created [CalculatorAPP](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
 
