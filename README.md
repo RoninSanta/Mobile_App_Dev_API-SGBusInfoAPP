@@ -1,7 +1,26 @@
 # SGBusInfoAPP
-A mobile app I created to show `Bus Stops` and associated `Bus Information` all around Singapore
+A mobile app I created to show `Bus Stops` and associated `Bus Information` in Singapore, with realtime bus arrival timing and passanger volume display.
 
-This is the `Third` application I created using Expo, check out the `second` app [FoodOrderingAPP](https://github.com/RoninSanta/Mobile_Project_2-FoodOrderingAPP), and the first app i created [CalculatorAPP](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
+This is the `Third` application I created using Expo with React Native, check out the `second` app [FoodOrderingAPP](https://github.com/RoninSanta/Mobile_Project_2-FoodOrderingAPP), and the first app I created [CalculatorAPP](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
+
+## Background
+This app aims to simplify and provide a friendly UI for users to interact with Singapore's Bus API. More information about the API can be located inside the documentation [here](https://www.mytransport.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf). 
+
+The API is subjected to updates constantly (usually **2-3 minutes**) since it follows the Singapore's Public Transport operational hours, fewer buses will become available after 12.30 midnight.
+
+## Prerequisites
+Before using this app, the first step will be to request for an personal `API key` from **MyTransport**, which can be located [here](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html).
+
+## Supported Services
+Using the **MyTransport** API, I can access many services but not all of them are currently present inside this application. In future, I am intending to support more endpoints but for now these are the available bus information displayed.
+
+1. **Bus Arrivals Timing**
+2. **Bus Services**
+3. **Bus Type(Double/Single Decker)**
+4. **Volume of Passangers**
+5. **Timing for next subsequent Bus**
+6. **Bus Stops**
+7. **Bus Stop Search**
 
 ## Offline Emulation ##
 - Install Andriod Studio to emulate andriod environment
