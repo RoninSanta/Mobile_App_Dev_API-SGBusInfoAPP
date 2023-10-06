@@ -11,6 +11,8 @@ The API is subjected to updates constantly (usually **2-3 minutes**) since it fo
 ## Prerequisites
 Before using this app, the first step will be to request for your own personal `API key` from **MyTransport**, which can be located [here](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html), this process is very straight-forward and free.
 
+It is recommended to use [**POSTMAN**](https://www.postman.com/), an API data platform to test your API key and check is you are able to retrieve the csv file properly. More details on how to do so can be found on the **MyTransport** API Documentation.
+
 ## Supported Services
 Using the **MyTransport** `API KEY`, I can access many services but not all of them are currently present inside this application. In future, I am intending to support more endpoints but for now these are the available bus information displayed.
 
