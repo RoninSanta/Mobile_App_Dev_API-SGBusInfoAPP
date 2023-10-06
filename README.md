@@ -16,5 +16,5 @@ The link below is a online DEMO of the application run in Expo works on both And
 
 [Screenshots]
 
-<img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/f7768828-7762-48be-8e1b-9277724d2789" width="250" height="500">
-<img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/a597333b-1d31-458a-acfd-bd696047914d" width="250" height="500">
+<img src="https://github.com/RoninSanta/Mobile_Project_3-SGBusInfoAPP/assets/109457795/813cf2ea-d7b8-4258-a5f0-99f7d1e3b3b3" width="250" height="500">
+<img src="https://github.com/RoninSanta/Mobile_Project_3-SGBusInfoAPP/assets/109457795/e09bea17-2de7-409e-8d3e-20468c7b25a9" width="250" height="500">
