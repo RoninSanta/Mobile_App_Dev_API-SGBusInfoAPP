@@ -8,7 +8,7 @@ This app aims to simplify and provide a friendly UI for users to interact with S
 
 The API is subjected to updates constantly (usually **2-3 minutes**) since it follows the Singapore's Public Transport operational hours, fewer buses will become available after 12.30 midnight.
 
-## Prerequisites
+## Prerequisites - get API KEY
 Before using this app, the first step will be to request for your own personal `API key` from **MyTransport**, which can be located [here](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html), this process is very straight-forward and free.
 
 It is recommended to use [**POSTMAN**](https://www.postman.com/), an API data platform to test your API key and check is you are able to retrieve the csv file properly. More details on how to do so can be found on the **MyTransport** API Documentation.
