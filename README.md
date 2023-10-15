@@ -30,9 +30,13 @@ Using the **MyTransport** `API KEY`, I can access many services but not all of t
 
 - Install XCode to emulate IOS environment [XCode](https://developer.apple.com/xcode/)
 
-## Online Demo ##
-The link below is a online DEMO of the application run in Expo works on both Andriod and IOS.
+## Youtube Demo ##
+The link below is a video DEMO of the application on Youtube:
+[Youtube Demo Link](https://www.youtube.com/watch?v=FMG_fYNQlNo&t=7s)
 
+
+## Playable Demo ##
+The Link below is a playable demo link run on Expo that is available in both Andriod and IOS platforms
 [Expo SGBusInfoAPP DEMO HERE](https://snack.expo.dev/@joseph_shen/fyp-busarrivalapp?platform=ios)
 
 [Screenshots]
