@@ -37,6 +37,7 @@ The link below is a video DEMO of the application on Youtube:
 
 ## Playable Demo ##
 The Link below is a playable demo link run on Expo that is available in both Andriod and IOS platforms
+
 [Expo SGBusInfoAPP DEMO HERE](https://snack.expo.dev/@joseph_shen/fyp-busarrivalapp?platform=ios)
 
 [Screenshots]
