@@ -32,8 +32,8 @@ Using the **MyTransport** `API KEY`, I can access many services but not all of t
 
 ## Youtube Demo ##
 The link below is a video DEMO of the application on Youtube:
-[Youtube Demo Link](https://www.youtube.com/watch?v=FMG_fYNQlNo&t=7s)
 
+[Youtube Demo Link](https://www.youtube.com/watch?v=FMG_fYNQlNo&t=7s)
 
 ## Playable Demo ##
 The Link below is a playable demo link run on Expo that is available in both Andriod and IOS platforms
